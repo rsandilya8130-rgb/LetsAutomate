@@ -28,4 +28,10 @@ public class ContactTest {
 		System.out.println("Execute delete Contact");
 	}
 	
+	@Test
+	public void VerifyContact() {
+		System.out.println("Execute Verify Contact");
+	}
+	
+	
 }
